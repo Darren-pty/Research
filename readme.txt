@@ -1,2 +1,2 @@
-readme.txt
-I'm happy.
+Git is a version control system.
+Git is free software.
