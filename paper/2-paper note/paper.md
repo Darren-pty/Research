@@ -6,6 +6,7 @@
 - [1-综述](https://github.com/Darren-pty/Research/blob/main/Learning%20of%20way/Semester/MiddleStation/4-1.md)
 - [2-HybridFusion: LiDAR and Vision Cross-Source Point Cloud Fusion](https://github.com/Darren-pty/Research/blob/main/Learning%20of%20way/Semester/picture/53.png)
 - [3-AgriColMap: Aerial-Ground Collaborative 3D Mapping for Precision Farming](https://github.com/ZJUT-IoCS-MAS/darren_pty/blob/main/2-Second%20semester/2023-2-16.png)
+- [4-Point Cloud Registration Based on 1-point RANSAC and Scale-annealing Biweight Estimation](https://github.com/Darren-pty/Research/blob/main/paper/2-paper%20note/2-cloud%20registration/3-Point%20Cloud%20Registration%20Based%20on%201-point%C2%A0RANSAC%20and%20Scale-annealing%20Biweight%20Estimation%C2%A0.md)
 
 
 #### 1.2 深度神经网络方法
