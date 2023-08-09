@@ -2,7 +2,7 @@ import numpy as np
 import os
 import argparse
 from pypcd import pypcd
-import tqdm
+from tqdm import tqdm
  
 def main():
     parser = argparse.ArgumentParser(description="Convert .pcd to .bin")
