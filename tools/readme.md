@@ -6,3 +6,7 @@ __使用__
 > chmod +x move_files.sh
 
 > ./move_files.sh
+
+
+- pcl_test.zip
+> 测试pcl是否安装成功
